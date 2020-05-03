@@ -4,7 +4,7 @@
     "description": "Replaces aurora.exe and provides custom themes, window resizing and persistence, autosave, and other QoL features",
     "status": "approved",
     "type": "executable",
-    "launch_command": "AuroraMod2.exe",
+    "launch_command": "AuroraMod.exe",
     "configuration_file": "Aurora.mod.config",
     "changelog_file": "Aurora.mod.txt",
 
@@ -12,11 +12,6 @@
     [
         {
             "version": "1.9.3-3",
-            "target_aurora_version": "1.9",
-            "download_url": "https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Mods/AuroraMod/AuroraMod-1.9.3-3.zip"
-        },
-        {
-            "version": "1.9.3-4",
             "target_aurora_version": "1.9",
             "download_url": "https://raw.githubusercontent.com/Aurora-Modders/AuroraMods/master/Mods/AuroraMod/AuroraMod-1.9.3-3.zip"
         }
