@@ -1,7 +1,7 @@
 
 {
     "name": "AuroraMod",
-    "description": "Replaces aurora.exe and provides custom themes, window resizing and persistence, autosave, and other QoL features",
+    "description": "Replaces Aurora.exe and provides custom themes, window resizing, autosave, and other QoL features",
     "status": "approved",
     "type": "executable",
     "launch_command": "AuroraMod.exe",
@@ -29,6 +29,11 @@
             "version": "1.9.4-2",
             "target_aurora_version": "1.9",
             "download_url": "https://raw.githubusercontent.com/Aurora-Modders/AuroraMod/master/Releases/AuroraMod-1.9.4-2.zip"
+        },
+        {
+            "version": "1.9.4-3",
+            "target_aurora_version": "1.9",
+            "download_url": "https://raw.githubusercontent.com/Aurora-Modders/AuroraMod/master/Releases/AuroraMod-1.9.4-3.zip"
         }
     ]
 }
