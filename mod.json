@@ -5,7 +5,7 @@
     "status": "approved",
     "type": "executable",
     "launch_command": "AuroraMod.exe",
-    "configuration_file": "Aurora.mod.config",
+    "configuration_file": "Aurora.mod.txt",
     "changelog_file": "Aurora.mod.txt",
 
     "downloads":
@@ -39,6 +39,11 @@
             "version": "1.9.5-0",
             "target_aurora_version": "1.9",
             "download_url": "https://raw.githubusercontent.com/Aurora-Modders/AuroraMod/master/Releases/AuroraMod-1.9.5-0.zip"
+        },
+        {
+            "version": "1.9.5-1",
+            "target_aurora_version": "1.9",
+            "download_url": "https://raw.githubusercontent.com/Aurora-Modders/AuroraMod/master/Releases/AuroraMod-1.9.5-1.zip"
         }
     ]
 }
