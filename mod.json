@@ -84,6 +84,11 @@
             "version": "1.10.0-1",
             "target_aurora_version": "1.10",
             "download_url": "https://raw.githubusercontent.com/Aurora-Modders/AuroraMod/master/Releases/AuroraMod-1.10.0-1.zip"
+        },
+        {
+            "version": "1.11.0-0",
+            "target_aurora_version": "1.11",
+            "download_url": "https://raw.githubusercontent.com/Aurora-Modders/AuroraMod/master/Releases/AuroraMod-1.11.0-0.zip"
         }
     ]
 }
